@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ### I am a professional Business Intelligence Developer/Engineer.
 
 My roles in working for the industry have been as follows:
